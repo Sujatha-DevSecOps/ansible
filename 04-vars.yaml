@@ -6,5 +6,5 @@
     TRAINER: "sivakumar"
     DURATION: "150hrs"
   tasks:
-    -debug:
+    - debug:
       msg: "Hi, I am learning {{COURSE}}, Trainer is {{Trainer}}, Duration is {{DURATION}}"
